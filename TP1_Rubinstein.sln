@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP1_Rubinstein", "TP1_Rubinstein\TP1_Rubinstein.csproj", "{E41A4D99-844A-414F-86D5-1C1B7E9CBFDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{C7B4D9B9-2F62-4EE3-8C6E-EEB3D3AAB88C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E41A4D99-844A-414F-86D5-1C1B7E9CBFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41A4D99-844A-414F-86D5-1C1B7E9CBFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41A4D99-844A-414F-86D5-1C1B7E9CBFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41A4D99-844A-414F-86D5-1C1B7E9CBFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B4D9B9-2F62-4EE3-8C6E-EEB3D3AAB88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B4D9B9-2F62-4EE3-8C6E-EEB3D3AAB88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B4D9B9-2F62-4EE3-8C6E-EEB3D3AAB88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B4D9B9-2F62-4EE3-8C6E-EEB3D3AAB88C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {994EE1F9-66D3-495F-AD7D-B0897018604C}
+	EndGlobalSection
+EndGlobal
